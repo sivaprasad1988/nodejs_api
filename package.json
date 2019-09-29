@@ -1,0 +1,15 @@
+{
+  "name": "Lyive",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "MD5": "~1.2.2",
+    "body-parser": "^1.19.0",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^5.4.1",
+    "mysql": "^2.17.1"
+  }
+}
